@@ -9,7 +9,7 @@
 
 ## 使い方
 
-1. ダウンロードした `finaloption.py` と `finaloption` フォルダをDaVinci Resolveのスクリプト用フォルダに配置します。<br><br>環境にもよりますが、おそらくこの辺にあります。<br>
+1. ダウンロードした `finaloption.py` と `finaloptionフォルダ` をDaVinci Resolveのスクリプト用フォルダに配置します。<br><br>環境にもよりますが、おそらくこの辺にあります。<br>
 
    ```text
    C:\ProgramData\Blackmagic Design\DaVinci Resolve\Fusion\Scripts\Utility
