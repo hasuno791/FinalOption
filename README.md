@@ -15,7 +15,7 @@
    C:\ProgramData\Blackmagic Design\DaVinci Resolve\Fusion\Scripts\Utility
    ```
 
-2. `finaloption` フォルダ内の `config.json` を開き、使用環境に合わせて各項目を設定します。<br>
+2. `finaloptionフォルダ` 内の `config.json` を開き、使用環境に合わせて各項目を設定します。<br>
 ファイル内に既に記入されているものは一例です。変更や削除を行っても動作に支障はありません。
 
 | 項目 | 説明 |
