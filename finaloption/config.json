@@ -1,0 +1,28 @@
+{
+  "audio_folder": "C:\\Projects\\Voiceroid",
+  "audio_ext": [".wav", ".mp3"],
+  "track_map": {
+    "宮舞モカ": { "audio": 4, "video": 4 },
+    "東北 きりたん": { "audio": 5, "video": 5 }
+  },
+  "replacements":[
+    {
+      "pattern": "^[\\r\\n]+|[\\r\\n]+$",
+      "replacement": ""
+    },
+    {
+      "pattern": "^東北 きりたん＞",
+      "replacement": ""
+    },
+    {
+      "pattern": "^琴葉 葵＞",
+      "replacement": ""
+    },
+    {
+      "pattern": "^琴葉 茜＞",
+      "replacement": ""
+    }
+  ],
+  "max_line_length": 30,
+  "sleep_time": 0.2
+}
