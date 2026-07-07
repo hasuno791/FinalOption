@@ -4,6 +4,9 @@
 合成音声を字幕と共にタイムラインへ投げ込むDaVinci Resolve用スクリプト  
 安定動作とスクリプトのみでの完結をコンセプトに作成しています。代わりに低機能です。
 
+最新版のダウンロード：
+[Download](https://github.com/hasuno791/FinalOption/releases/latest)
+
 ## 使い方
 
 1. ダウンロードした `finaloption.py` と `finaloption` フォルダをDaVinci Resolveのスクリプト用フォルダに配置します。<br><br>環境にもよりますが、おそらくこの辺にあります。<br>
